@@ -44,13 +44,13 @@ var init = function() {
 
 
     $("#button_05e68").html('button1'); 
-    $("#button_4fed5").html('button2'); 
+    $("#button_712e9").html('button2'); 
  
     $("#button_05e68").click(function(){
         alert("button1 clicked");
     }); 
  
-    $("#button_4fed5").click(function(){
+    $("#button_712e9").click(function(){
         alert("button2 clicked");
     }); 
 
